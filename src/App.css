@@ -17,10 +17,6 @@
 }
 
 .services {
-  background-image: url('../public/images/background-img.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
   color: #001524;
   font-size: 100px;
   text-align: center;
