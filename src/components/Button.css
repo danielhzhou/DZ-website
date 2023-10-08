@@ -12,7 +12,7 @@
   
   .btn--primary {
     background-color: var(--primary);
-    color: #242424;
+    color: #A7727D;
     border: 1px solid var(--primary);
   }
   
@@ -30,7 +30,7 @@
   }
   
   .btn--large {
-    padding: 12px 26px;
+    padding: 24px 52px;
     font-size: 20px;
   }
   

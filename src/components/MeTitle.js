@@ -3,7 +3,7 @@ import './MeTitle.css'
 
 function MeTitle() {
   return (
-    <div className = 'title'>
+    <div id = 'titleanchor' className = 'title'>
       <h1>Me (feat. some friends):</h1>
     </div>
   )

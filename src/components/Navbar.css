@@ -58,6 +58,10 @@
     height: 100%;
   }
   
+  .about-me {
+    color: #fef1ec;
+    }
+
   .nav-links:hover {
     border-bottom: 4px solid #fff3da;
     transition: all 0.2s ease-out;

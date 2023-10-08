@@ -1,0 +1,39 @@
+.ending {
+    color: #a7727d;
+    background-color: #eddbc7;
+    text-align: center;
+    height: 80px;
+    font-size: 30px;
+}
+
+.abtme {
+    color: #a7727d;
+    background-color: #eddbc7;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.abtme-container {
+     background-color: #eddbc7;
+}
+
+.ending p {
+    background-color: #eddbc7;
+}
+
+.ending h1 {
+    background-color: #eddbc7;
+
+}
+
+.abtme-btns {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    background-color: #eddbc7;
+}
+
+.abtme-btns .btn {
+    margin: 25px; /* Adjust the margin value as needed */
+}
