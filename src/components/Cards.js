@@ -15,7 +15,7 @@ function Cards() {
                     />
                      <CardItem
                     src="images/card-img8.jpg"
-                    text="drawing random things"
+                    text="drawing"
                     />
                     <CardItem
                     src="images/card-img7.jpg"

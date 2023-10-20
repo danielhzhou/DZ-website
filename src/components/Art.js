@@ -11,11 +11,11 @@ function Art() {
                 <ul className="art__items">
                     <ArtItem
                     src="images/art-1.jpg"
-                    text="vase with apple"
+                    text="the gree vase"
                     />
                      <ArtItem
                     src="images/art-2.jpg"
-                    text="stone man"
+                    text="stoic man"
                     />
                     <ArtItem
                     src="images/art-3.jpg"
@@ -29,11 +29,11 @@ function Art() {
                     />
                     <ArtItem
                     src="images/art-5.jpg"
-                    text="the best snack: peanut m&ms"
+                    text="mouthwatering m&ms"
                     />
                     <ArtItem
                     src="images/art-6.jpg"
-                    text="sticks in a cup"
+                    text="fettered foliage"
                     />
                 </ul>
             </div>
