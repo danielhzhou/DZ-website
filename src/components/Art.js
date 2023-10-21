@@ -11,7 +11,7 @@ function Art() {
                 <ul className="art__items">
                     <ArtItem
                     src="images/art-1.jpg"
-                    text="the gree vase"
+                    text="the green vase"
                     />
                      <ArtItem
                     src="images/art-2.jpg"
