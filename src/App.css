@@ -5,11 +5,6 @@
   font-family: 'Varela Round', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  background-color: transparent;
-  color: inherit; /* Use the parent element's text color */
-}
-
 .home,
 .services,
 .products,
