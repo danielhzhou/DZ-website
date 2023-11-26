@@ -4,13 +4,14 @@ import './Projects.css';
 
 function ProjectsG() {
   return (
-    <div id="projectanchor" className="projects">
+    <div className="projects">
+      <h2>Volunteer Coordinator for Techakids</h2>
       <div className="projects__container">
         <div className="projects__wrapper">
           <ul className="projects__items">
             <ProjectsItem
               src="images/techakids.jpg"
-              text="As volunteer coordinator for Techakids, 
+              text="
               I recruit 3+ volunteers each year, on top of helping 
               to teach classes of 40+ students. Techakids aims to make 
               STEAM education accessible for underpriveleged elementary 

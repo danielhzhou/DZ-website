@@ -4,14 +4,15 @@ import './Projects.css';
 
 function ProjectsE() {
   return (
-    <div id="projectanchor" className="projects">
+    <div className="projects">
       <h1>Community Service Projects:</h1>
+      <h2>Eagle Project: Retaining wall at SCLS</h2>
       <div className="projects__container">
         <div className="projects__wrapper">
           <ul className="projects__items">
             <ProjectsItem
               src="images/eagleproject.jpg"
-              text="Eagle Project: For my Eagle Project, I 
+              text="I 
               lead a team of 21 volunteers to build a retaining wall 
               made of railroad ties and metal rebars at Southern 
               California Livesteamers (nonprofit). 

@@ -9,6 +9,13 @@
   text-decoration: none;
 }
 
+.projects h2 {
+  text-align: center;
+  color: #f8ead8;
+  text-decoration: none;
+  margin-top: 17px;
+}
+
 .projects__container {
   display: flex;
   flex-flow: column;

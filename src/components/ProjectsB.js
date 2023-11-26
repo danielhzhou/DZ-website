@@ -4,13 +4,14 @@ import './Projects.css';
 
 function ProjectsB() {
   return (
-    <div id = 'projectanchor' className='projects'>
+    <div className='projects'>
+      <h2>To-do List With a Twist</h2>
         <div className="projects__container">
             <div className="projects__wrapper">
                 <ul className="projects__items">
                     <ProjectsItem
                     src="images/todolist.jpg"
-                    text="To-do list with a twist:   
+                    text="  
                     This website was my team's submission for the 
                     2023 Hack the Wave Hackathon. It is a to do list 
                     website that randomly adds extra tasks when users 
