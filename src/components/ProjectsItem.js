@@ -1,5 +1,3 @@
-// ProjectsItem.js
-
 import React from 'react';
 
 function ProjectsItem(props) {

@@ -11,7 +11,15 @@ function ProjectsE() {
           <ul className="projects__items">
             <ProjectsItem
               src="images/eagleproject.jpg"
-              text="Eagle Project: For my Eagle Project, I lead a team of 21 volunteers to build a retaining wall made of railroad ties and metal rebars at Southern California Livesteamers (nonprofit). In order to address safety issues and make the site look better, I utilized a chainsaw and powerdrills to make this wall possible. Over 200 hours of community service was spent on this project."
+              text="Eagle Project: For my Eagle Project, I 
+              lead a team of 21 volunteers to build a retaining wall 
+              made of railroad ties and metal rebars at Southern 
+              California Livesteamers (nonprofit). 
+              In order to address safety issues and make the 
+              site look better, I utilized a chainsaw and 
+              powerdrills to remove tree roots and secure the wall into the ground. 
+              Over 200 hours of community service was spent 
+              on this project."
             />
           </ul>
         </div>
