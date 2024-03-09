@@ -23,9 +23,9 @@ function Home () {
         <ImageSlider id slides={SliderData}/>
         <Cards />
         <ProjectsA />
-        <ProjectsB />
-        <ProjectsC />
         <ProjectsD />
+        <ProjectsC />
+        <ProjectsB />
         <ProjectsE />
         <ProjectsF />
         <ProjectsG />
