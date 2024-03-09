@@ -5,20 +5,14 @@ import './Projects.css';
 function ProjectsC() {
   return (
     <div className='projects'>
-      <h2>Designing Website For Interact Ideathon</h2>
+      <h2>DNA Analysis App</h2>
         <div className="projects__container">
             <div className="projects__wrapper">
                 <ul className="projects__items">
                     <ProjectsItem
-                    src="images/design-img2.jpg"
-                    text=" 
-                    I co-hosted the Interact Ideathon, which was an 
-                    event dedicated to promote action in the field of 
-                    destigmatizing therapy. My role in the event was to 
-                    create a website that provided participants with 
-                    crucial information to continue their projects. This 
-                    website also allowed volunteers recieve credit for 
-                    their service."
+                    src="images/DNA.png"
+                    text="With the course Bioinformatics in Python by RebelCoder on Youtube, I was able to program a DNA analysis app that mimics the human body to determine the corresponding protein through transcription and translation. The app also finds other important information such as GC content, which is useful in bioinformatics DNA analysis. I utilized Flask to create a backend API for this app."
+                    
                     />
                 </ul>
             </div>
